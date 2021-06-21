@@ -1,0 +1,22 @@
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\lab cw_3.exe
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\lab cw_3.deps.json
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\lab cw_3.runtimeconfig.json
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\lab cw_3.runtimeconfig.dev.json
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\lab cw_3.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\ref\lab cw_3.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\bin\Debug\net5.0-windows\lab cw_3.pdb
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.csproj.AssemblyReference.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\App.g.cs
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3_MarkupCompile.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3_MarkupCompile.lref
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.g.resources
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.AssemblyInfoInputs.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.AssemblyInfo.cs
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.csproj.CoreCompileInputs.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\ref\lab cw_3.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.pdb
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab3\lab cw_3\lab cw_3\obj\Debug\net5.0-windows\lab cw_3.genruntimeconfig.cache

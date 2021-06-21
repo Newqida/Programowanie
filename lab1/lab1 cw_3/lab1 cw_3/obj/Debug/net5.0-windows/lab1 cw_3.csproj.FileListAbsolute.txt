@@ -1,0 +1,6 @@
+E:\Studia\4 semestr\Programowanie\lab1 cw_3\lab1 cw_3\obj\Debug\net5.0-windows\lab1_cw_3.Form1.resources
+E:\Studia\4 semestr\Programowanie\lab1 cw_3\lab1 cw_3\obj\Debug\net5.0-windows\lab1 cw_3.csproj.GenerateResource.cache
+E:\Studia\4 semestr\Programowanie\lab1 cw_3\lab1 cw_3\obj\Debug\net5.0-windows\lab1 cw_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\4 semestr\Programowanie\lab1 cw_3\lab1 cw_3\obj\Debug\net5.0-windows\lab1 cw_3.AssemblyInfoInputs.cache
+E:\Studia\4 semestr\Programowanie\lab1 cw_3\lab1 cw_3\obj\Debug\net5.0-windows\lab1 cw_3.AssemblyInfo.cs
+E:\Studia\4 semestr\Programowanie\lab1 cw_3\lab1 cw_3\obj\Debug\net5.0-windows\lab1 cw_3.csproj.CoreCompileInputs.cache

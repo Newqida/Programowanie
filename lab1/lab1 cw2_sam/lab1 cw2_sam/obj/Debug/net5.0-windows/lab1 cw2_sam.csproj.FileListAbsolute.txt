@@ -1,0 +1,36 @@
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1_cw2_sam.Form1.resources
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.csproj.GenerateResource.cache
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.AssemblyInfoInputs.cache
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.AssemblyInfo.cs
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.csproj.CoreCompileInputs.cache
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.exe
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.deps.json
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.runtimeconfig.json
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.runtimeconfig.dev.json
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\ref\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.pdb
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\ref\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.pdb
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.genruntimeconfig.cache
+E:\Studia\4 semestr\Programowanie\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.csproj.AssemblyReference.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.exe
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.deps.json
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.runtimeconfig.json
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.runtimeconfig.dev.json
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\ref\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\bin\Debug\net5.0-windows\lab1 cw2_sam.pdb
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.csproj.AssemblyReference.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1_cw2_sam.Form1.resources
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.csproj.GenerateResource.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.AssemblyInfoInputs.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.AssemblyInfo.cs
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.csproj.CoreCompileInputs.cache
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\ref\lab1 cw2_sam.dll
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.pdb
+E:\Studia\4 semestr\Programowanie(L,P)\Gotowe\lab1\lab1 cw2_sam\lab1 cw2_sam\obj\Debug\net5.0-windows\lab1 cw2_sam.genruntimeconfig.cache
